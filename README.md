@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drovelops AKA Abhay BHarti
+- 👋 Hi, I’m Abhay BHarti
 - 👀 I’m interested in web development , Three.JS , GSAP, React.JS, Next.JS
 - 🌱 I’m currently learning GSAP and Three.JS
 - 💞️ I’m looking to collaborate on 3D web development
